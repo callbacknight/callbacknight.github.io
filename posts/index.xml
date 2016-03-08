@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Callback Night</title>
+    <link>http://callbacknight.github.io/posts/</link>
+    <description>Recent content in Posts on Callback Night</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 07 Mar 2016 18:51:03 -1000</lastBuildDate>
+    <atom:link href="http://callbacknight.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Hello, World</title>
+      <link>http://callbacknight.github.io/posts/HelloWorld/</link>
+      <pubDate>Mon, 07 Mar 2016 18:51:03 -1000</pubDate>
+      
+      <guid>http://callbacknight.github.io/posts/HelloWorld/</guid>
+      <description>&lt;p&gt;Insert content here&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
